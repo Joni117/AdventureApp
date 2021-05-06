@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Adventure Awaits</string>
+    <string name="crime_title_hint">Enter a name for the location.</string>
+    <string name="location_title_label">Location</string>
+    <string name="location_details_label">Details on location</string>
+    <string name="saved_image_label">Dog Friendly?</string>
+    <string name="new_adventure">New Adventure Location</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="adventure_list_text">Send Adventure</string>
+    <string name="crime_report">%1$s!
+        The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="description">Details on location</string>
+    <string name="dog_friendly">The place is dog friendly</string>
+    <string name="dog_unfriendly">This place is not dog friendly</string>
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+   <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_post">Share adventure list via</string>
+</resources>
